@@ -1,0 +1,8 @@
+Coloque aqui os 3 vídeos, com estes nomes exatos:
+
+  video1.mp4
+  video2.mp4
+  video3.mp4
+
+Depois envie a pasta inteira (index.html + videos) para a hospedagem.
+Se algum arquivo faltar, o espaço dele some da página sozinho.
